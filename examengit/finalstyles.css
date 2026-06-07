@@ -1,0 +1,39 @@
+*{
+    margin-top: 10px;
+    box-sizing: border-box;
+    padding: 2px;
+}
+
+.barras{
+    border: 3px solid rgb(0,0,0);
+    width: 340px;
+    padding: 4px;
+}
+
+.barra{
+    border: 1px solid rgb(0, 0, 0);
+    margin: 0px;
+
+}
+
+.form{
+    width: 450px;
+    background-color: rgb(220, 224, 228);
+    padding: 70px;
+    margin: 0px;
+    border-radius: 0px;
+    border: 2px solid rgb(0, 0, 0) ;
+    padding-bottom: 30px;
+    padding-left: 30px;
+    padding-right: 60px;
+    padding-top: 30px;
+}
+
+.recta{
+    width: 300px;
+    padding-bottom: 6px;
+    margin-bottom: 5px;
+    border-radius: 5px;
+    border: 3px solid rgb(119, 145, 168) ;
+}
+
