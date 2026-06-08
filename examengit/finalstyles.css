@@ -5,23 +5,27 @@
 }
 
 .barras{
-    border: 3px solid rgb(0,0,0);
+    border: 0px solid rgb(0,0,0);
     width: 340px;
     padding: 4px;
+
 }
 
 .barra{
-    border: 1px solid rgb(0, 0, 0);
+    border: 1px solid black;
     margin: 0px;
+    background-color: whitesmoke;
+    border-radius: 3px;
+    border-top-left-radius: 5px;
 
 }
 
 .form{
-    width: 450px;
-    background-color: rgb(220, 224, 228);
+    width: 370px;
+    background-color: rgba(237, 240, 223, 0.914);
     padding: 70px;
     margin: 0px;
-    border-radius: 0px;
+    border-radius: 5px;
     border: 2px solid rgb(0, 0, 0) ;
     padding-bottom: 30px;
     padding-left: 30px;
@@ -31,9 +35,21 @@
 
 .recta{
     width: 300px;
-    padding-bottom: 6px;
+    padding: 6px 9px;
+    border: none;
     margin-bottom: 5px;
-    border-radius: 5px;
-    border: 3px solid rgb(119, 145, 168) ;
+    border-radius: 2px;
+    border-top: 1px solid black;
+    border-left: 1px solid black;
+    background-color: whitesmoke;
+}
+
+.boton{
+    background-color: rgb(47, 214, 83);
+    font-style: oblique;
+    width: 80px;
+    border-radius: 4px;
+    margin-left: 220px;
+    border: 1px solid black;
 }
 
