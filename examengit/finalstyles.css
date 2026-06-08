@@ -9,6 +9,8 @@
     border: 0px solid rgb(0,0,0);
     width: 340px;
     padding: 4px;
+    display: flex;
+    justify-content: center;
 
 }
 
